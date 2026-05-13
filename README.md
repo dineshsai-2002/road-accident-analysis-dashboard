@@ -46,7 +46,8 @@ Monitored monthly accident trends for decision-making
 📷 Dashboard Preview
 
 
-<img width="590" height="332" alt="Screenshot 2026-05-13 131511" src="https://github.com/user-attachments/assets/b41d1e65-8da5-46ee-b03b-10f9593df6a0" />
+<img width="592" height="332" alt="image" src="https://github.com/user-attachments/assets/2e9223ce-2679-463b-bcd3-923f2250590b" />
+
 
 📁 Project Files
 Road_Accidents_Dashboards.pbix → Power BI dashboard file
